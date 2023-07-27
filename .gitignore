@@ -1,0 +1,9 @@
+gitnotes.txt
+
+
+python3.11 -m pip install 
+
+
+git add --all
+git commit -m "initial commit"
+git push
