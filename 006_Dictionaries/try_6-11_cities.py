@@ -12,7 +12,7 @@ cities = {
     'kathmandu': {
         'country': 'nepal',
         'population': 975_453,
-        'nearby mountains': 'himilaya',
+        'nearby mountains': 'himalayan',
         }
     }
 
@@ -23,4 +23,4 @@ for city, city_info in cities.items():
 
     print(f"\n{city.title()} is in {country}.")
     print(f"  It has a population of about {population}.")
-    print(f"  The {mountains} mounats are nearby.")
+    print(f"  The {mountains} mountains are nearby.")
