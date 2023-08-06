@@ -1,4 +1,4 @@
-import try_8-15-1_printing_functions as pf
+import printing_functions as pf
 
 unprinted_designs = ['iphone case', 'robot pendant', 'dodecahedron']
 completed_models = []
