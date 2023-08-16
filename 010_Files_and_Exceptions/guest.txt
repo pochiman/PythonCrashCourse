@@ -1,0 +1,1 @@
+/usr/local/bin/python3 /Users/pocholo/Desktop/projects/PythonCrashCourse/010_Files_and_Exceptions/try_10-5_guest_book.py
