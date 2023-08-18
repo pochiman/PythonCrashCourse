@@ -2,6 +2,9 @@ gitnotes.txt
 
 
 python3.11 -m pip install 
+python3.11 -m pip install --upgrade pip
+python3.11 -m pip install pytest
+python3.11 -m pytest
 
 
 git add --all
