@@ -13,7 +13,7 @@ class Rocket:
         #   Rocket image from: https://opengameart.org/content/rocket
         #   License: https://creativecommons.org/licenses/by/3.0/
         #   Image was resized.
-        self.image = pygame.image.load('012_A_Ship_That_Fires_Bullets/ex_12_4_rocket/images/rocket_small.png')
+        self.image = pygame.image.load('012_A_Ship_That_Fires_Bullets/try_12-4_rocket/images/rocket_small.png')
         self.rect = self.image.get_rect()
 
         # Start each new rocket at the center of the screen.

@@ -10,7 +10,7 @@ class Bird:
 
         # Load the bird image and get its rect.
         #   Bird image from: https://opengameart.org/content/game-character-blue-flappy-bird-sprite-sheets
-        self.image = pygame.image.load('012_A_Ship_That_Fires_Bullets/ex_12_2_game_character/images/bird_small.bmp')
+        self.image = pygame.image.load('012_A_Ship_That_Fires_Bullets/try_12-2_game_character/images/bird_small.bmp')
         self.rect = self.image.get_rect()
 
         # Start each new bird at the center of the screen.

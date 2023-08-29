@@ -10,7 +10,7 @@ class Ship:
         self.screen_rect = ss_game.screen.get_rect()
 
         # Load the ship image and get its rect.
-        self.image = pygame.image.load('012_A_Ship_That_Fires_Bullets/ex_12_6_sideways_shooter/images/rocket_small.png')
+        self.image = pygame.image.load('013_Aliens/try_13-5_sideways_shooter_2/images/rocket_small.png')
         self.rect = self.image.get_rect()
 
         # Start each new ship at the center of the left side of the screen.
