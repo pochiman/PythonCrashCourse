@@ -15,6 +15,8 @@ learning_log$ source ll_env/bin/activate
 learning_log$ python manage.py runserver
 python3.11 -m pip install --upgrade pip
 python3.11 -m pip install django
+python3.11 -m pip install django-bootstrap5
+python3.11 -m pip install beautifulsoup4
 
 
 git add --all
